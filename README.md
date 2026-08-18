@@ -13,6 +13,7 @@ An AI-powered research assistant that searches the web and provides accurate, co
 
 ### Run the Project
 
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
